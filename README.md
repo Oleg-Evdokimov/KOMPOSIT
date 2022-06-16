@@ -86,6 +86,8 @@ Evdokimov O.G. BKP_final_2.ipynb - продолжение кода
 
 Evdokimov O.G. BKP_final_3.ipynb - завершение кода
 
+Evdokimov O.G. BKP_final_1.html - первая часть код в html
+
 Evdokimov O.G. BKP_final_2.html - вторая часть код в html
 
 Evdokimov O.G. BKP_final_2.pdf - вторая часть код в pdf
