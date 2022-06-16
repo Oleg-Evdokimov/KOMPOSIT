@@ -86,13 +86,13 @@ Evdokimov O.G. BKP_final_2.ipynb - продолжение кода
 
 Evdokimov O.G. BKP_final_3.ipynb - завершение кода
 
-Evdokimov O.G. BKP_final_1.html - первая часть код в html
+Evdokimov O.G. BKP_final_1.html - первая часть кода в html
 
-Evdokimov O.G. BKP_final_2.html - вторая часть код в html
+Evdokimov O.G. BKP_final_2.html - вторая часть кода в html
 
-Evdokimov O.G. BKP_final_2.pdf - вторая часть код в pdf
+Evdokimov O.G. BKP_final_1.pdf - первая часть кода в pdf
 
-App_Evdokimov.ipynb - приложение 
+Evdokimov O.G. BKP_final_2.pdf - вторая часть кода в pdf
 
 BKP_Evdokimov_presentazia_final.pdf - презентация ВКР  в формате pdf для защиты
 
