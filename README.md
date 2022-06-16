@@ -80,7 +80,11 @@ Evdokimov O.G. BKP_final.pdf - код работы, выгруженный в pd
 
 Итоговый проект МГТУ DS требования.docx - файл с требованиями к оформлению работы и всеми задачами
 
-Evdokimov.ipynb - код 
+Evdokimov O.G. BKP_final_1.ipynb - начало кода
+
+Evdokimov O.G. BKP_final_2.ipynb - продолжение кода
+
+Evdokimov O.G. BKP_final_3.ipynb - завершение кода
 
 App_Evdokimov.ipynb - приложение 
 
