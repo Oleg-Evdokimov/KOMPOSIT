@@ -90,6 +90,8 @@ App_Evdokimov.ipynb - приложение
 
 BKP_Evdokimov_presentazia_final.pdf - презентация ВКР  в формате pdf для защиты
 
+BKP_Evdokimov_presentazia_final.pptx - презентация ВКР для защиты в формате pptx
+
 Пояснительная записка Евдокимов О.Г.pdf- описание работы примерно на 38 стр
 
 
