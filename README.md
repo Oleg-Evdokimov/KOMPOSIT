@@ -94,6 +94,8 @@ Evdokimov O.G. BKP_final_1.pdf - первая часть кода в pdf
 
 Evdokimov O.G. BKP_final_2.pdf - вторая часть кода в pdf
 
+Evdokimov O.G. BKP_final_3.pdf - третья часть кода в pdf
+
 BKP_Evdokimov_presentazia_final.pdf - презентация ВКР  в формате pdf для защиты
 
 BKP_Evdokimov_presentazia_final.pptx - презентация ВКР для защиты в формате pptx
