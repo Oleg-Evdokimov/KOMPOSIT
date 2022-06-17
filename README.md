@@ -90,6 +90,8 @@ Evdokimov O.G. BKP_final_1.html - первая часть кода в html
 
 Evdokimov O.G. BKP_final_2.html - вторая часть кода в html
 
+Evdokimov O.G. BKP_final_3.html - третья часть кода в html
+
 Evdokimov O.G. BKP_final_1.pdf - первая часть кода в pdf
 
 Evdokimov O.G. BKP_final_2.pdf - вторая часть кода в pdf
