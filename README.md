@@ -129,3 +129,9 @@ BKP_Evdokimov_presentazia_final.pptx - презентация ВКР для за
 2022 г. 
 
 #UPD. В работе есть неточности. Где-то описки, где-то опечатки. Замечаю и исправляю их со временем. Возможно, в данный момент не запускается приложение, но это не точно. 
+
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Oleg-Evdokimov
+&style=flat-square&color=blue" alt = ""/>
+</div>
+
