@@ -132,6 +132,5 @@ BKP_Evdokimov_presentazia_final.pptx - презентация ВКР для за
 
 <div id ="sch" align="center">
 <img src="https://komarev.com/ghpvc/?username=Oleg-Evdokimov&style=flat-square&color=blue" alt = ""/>
-&style=flat-square&color=blue" alt = ""/>
 </div>
 
